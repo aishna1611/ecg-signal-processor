@@ -24,11 +24,11 @@ python day5_report.py         # Generate PDF clinical report
 
 | Day | File | Output |
 |-----|------|--------|
-| 1 | day1_raw_ecg.py | Raw ECG plot with PQRST labels |
-| 2 | day2_filtering.py | Filtered ECG + frequency response |
-| 3 | day3_peak_detection.py | R-peaks with detection metrics |
-| 4 | day4_hrv_analysis.py | Tachogram, Poincaré, PSD |
-| 5 | day5_report.py | **ecg_clinical_report.pdf** |
+| 1 | raw_ecg.py | Raw ECG plot with PQRST labels |
+| 2 | filtering.py | Filtered ECG + frequency response |
+| 3 | peak_detection.py | R-peaks with detection metrics |
+| 4 | hrv_analysis.py | Tachogram, Poincaré, PSD |
+| 5 | report.py | **ecg_clinical_report.pdf** |
 
 ## Algorithm
 
