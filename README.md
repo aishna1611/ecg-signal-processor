@@ -10,15 +10,6 @@ and computes HRV metrics on real PhysioNet data.
 pip install numpy scipy matplotlib wfdb
 ```
 
-## Run day by day
-
-```bash
-python day1_raw_ecg.py        # Download + plot raw ECG
-python day2_filtering.py      # Design + apply digital filters
-python day3_peak_detection.py # Pan-Tompkins R-peak detection
-python day4_hrv_analysis.py   # HRV metrics (SDNN, RMSSD, PSD)
-python day5_report.py         # Generate PDF clinical report
-```
 
 ## What it does
 
